@@ -1,0 +1,58 @@
+body {
+    background: linear-gradient(135deg, #85d8ce, #085078);
+    font-family: 'Arial', sans-serif;
+    color: #fff;
+    min-height: 100vh;
+  }
+  
+  h1 {
+    font-size: 2.5rem;
+    font-weight: bold;
+  }
+  
+  .search-section input {
+    background: rgba(255, 255, 255, 0.8);
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  .search-section button {
+    font-size: 1rem;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  .current-weather {
+    background: rgba(255, 255, 255, 0.9);
+    color: #333;
+    border-radius: 10px;
+    text-align: center;
+  }
+  
+  .current-weather img {
+    max-width: 80px;
+  }
+  
+  .forecast .card {
+    background: rgba(255, 255, 255, 0.8);
+    border: none;
+    border-radius: 10px;
+    color: #333;
+    text-align: center;
+    padding: 15px;
+  }
+  
+  .forecast .card img {
+    max-width: 60px;
+  }
+  
+  .card-title {
+    font-size: 1rem;
+    margin-bottom: 10px;
+  }
+  
+  .card-text {
+    font-size: 0.9rem;
+  }
+  
