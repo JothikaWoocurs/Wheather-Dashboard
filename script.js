@@ -1,4 +1,4 @@
-const apiKey = "cafabab3e87972cecc06f349cf7e4357"; // Replace with your OpenWeather API key
+const apiKey = "cafabab3e87972cecc06f349cf7e4357";
 const currentWeatherDiv = document.getElementById("currentWeather");
 const forecastDiv = document.getElementById("forecast");
 const recentSearchesList = document.getElementById("recentSearches");

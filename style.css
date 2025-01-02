@@ -1,13 +1,14 @@
 body {
-    background: linear-gradient(135deg, #85d8ce, #085078);
-    font-family: 'Arial', sans-serif;
-    color: #fff;
-    min-height: 100vh;
-  }
+  background: linear-gradient(to bottom, #85d8ce, #2e86de);
+  color: #fff;
+  font-family: 'Arial', sans-serif;
+  min-height: 100vh;
+}
   
   h1 {
     font-size: 2.5rem;
     font-weight: bold;
+    color: darkblue;
   }
   
   .search-section input {
